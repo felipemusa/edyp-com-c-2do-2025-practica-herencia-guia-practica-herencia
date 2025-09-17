@@ -1,6 +1,8 @@
 # Guia Práctica
 
-## Tema: Herencia y objetos
+## Tema: Herencia y objetos (EJERCICIOS OBLIGATORIOS 1 y 3)
+
+
 
 ### Ejercicio 1: Herencia y Polimorfismo en Vehículos *[Ejercicio obligatorio]*
 
@@ -72,6 +74,8 @@ class Anfibio:
 ```
 
 Recuerda utilizar herencia para evitar duplicación de código. Los mensajes de retorno deben ser específicos según el tipo de vehículo y medio de transporte.
+
+
 
 ### Ejercicio 2: Análisis de Datos de Uso de la Tarjeta SUBE
 
