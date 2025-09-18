@@ -117,16 +117,16 @@ Recuerda documentar tu código con docstrings y comentarios. Asegúrate de que e
 
 Siguiendo con el proyecto de la biblioteca, deseamos obtener ciertos datos en relación con los préstamos realizados por los usuarios:
 
-1. Nombre de los usuarios que solicitaron más libros en total. Deseamos promover dichos usuarios a “Lectores de Honor”.
+A. Nombre de los usuarios que solicitaron más libros en total. Deseamos promover dichos usuarios a “Lectores de Honor”.
 
-1. Listado de los libros que nunca fueron prestados. Deseamos retirarlos del catálogo o derivarlos a otra biblioteca. Previamente debemos imprimir los títulos y pedir la confirmación al usuario del sistema para proceder con la derivación.
+B. Listado de los libros que nunca fueron prestados. Deseamos retirarlos del catálogo o derivarlos a otra biblioteca. Previamente debemos imprimir los títulos y pedir la confirmación al usuario del sistema para proceder con la derivación.
 
-1. Promedio de cantidad de libros prestados por usuario hasta el momento. Debemos mostrar dicha información.
+C. Promedio de cantidad de libros prestados por usuario hasta el momento. Debemos mostrar dicha información.
  “Promedio por usuario: nn libros”
 
-1. Libro más antiguo prestado por cada usuario de la biblioteca (basado en el año de publicación). Si no realizó préstamos, se debe imprimir “N/A”. Se debe mostrar:
+D. Libro más antiguo prestado por cada usuario de la biblioteca (basado en el año de publicación). Si no realizó préstamos, se debe imprimir “N/A”. Se debe mostrar:
  Usuario: nombre, título, año de publicación
 
-1. Lista de géneros por orden de popularidad. Se debe mostrar la lista de mayor a menor popularidad, junto al número de préstamos por género. Luego se procederá a incorporar a la biblioteca más ejemplares de los 3 géneros más populares, solicitando previamente la confirmación del usuario del sistema. Informar los títulos de los nuevos libros agregados para cada género.
+E. Lista de géneros por orden de popularidad. Se debe mostrar la lista de mayor a menor popularidad, junto al número de préstamos por género. Luego se procederá a incorporar a la biblioteca más ejemplares de los 3 géneros más populares, solicitando previamente la confirmación del usuario del sistema. Informar los títulos de los nuevos libros agregados para cada género.
 
 Para realizar estos ejercicios, deberán agregar a las clases ya realizadas los atributos que consideren pertinentes, evitando modificar el código ya implementado en las clases. Para cada uno de los puntos solicitados, deberán definir métodos de instancia y probar la funcionalidad de su código. Empecemos: ¿En qué clase o clases deberían encapsular los distintos métodos?
